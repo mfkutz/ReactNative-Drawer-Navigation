@@ -18,7 +18,7 @@ export default function App() {
           <Drawer.Screen name="ScreenOne" component={ScreenOne} />
         </Drawer.Navigator>
       </NavigationContainer>
-      <Text style={styles.donacion}>haz tu donacion PAYPAL</Text>
+      <Text style={styles.donacion}>Haz tu donacion PAYPAL</Text>
     </>
   );
 }
